@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/G:/xampp/htdocs/moodle/index.php</file>
+            <file>file:/G:/xampp/htdocs/moodle/auth/googleoauth2/vendor/league/oauth2-client/src/Provider/AbstractProvider.php</file>
+            <file>file:/G:/xampp/htdocs/moodle/auth/googleoauth2/vendor/league/oauth2-client/src/Provider/Google.php</file>
+            <file>file:/G:/xampp/htdocs/moodle/auth/googleoauth2/classes/provider/google.php</file>
+            <file>file:/G:/xampp/htdocs/moodle/auth/googleoauth2/vendor/depotwarehouse/oauth2-bnet/src/Provider/BattleNet.php</file>
+            <file>file:/G:/xampp/htdocs/moodle/auth/googleoauth2/vendor/league/oauth2-client/src/Provider/ProviderInterface.php</file>
+            <file>file:/G:/xampp/htdocs/moodle/auth/googleoauth2/vendor/pixelfear/oauth2-dropbox/README.md</file>
+        </group>
+    </open-files>
+</project-private>

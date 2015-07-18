@@ -1,0 +1,105 @@
+[15-Jul-2015 10:04:54 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable:  in /home/c11488/public_html/lib/outputlib.php on line 31
+[15-Jul-2015 10:04:56 Asia/Ho_Chi_Minh] PHP Notice:  Trying to get property of non-object in /home/c11488/public_html/lib/outputlib.php on line 31
+[15-Jul-2015 10:04:56 Asia/Ho_Chi_Minh] PHP Warning:  require_once(/outputcomponents.php): failed to open stream: No such file or directory in /home/c11488/public_html/lib/outputlib.php on line 31
+[15-Jul-2015 10:04:56 Asia/Ho_Chi_Minh] PHP Fatal error:  require_once(): Failed opening required '/outputcomponents.php' (include_path='/home/c11488/public_html/lib/zend:/home/c11488/public_html/lib/pear:.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/c11488/public_html/lib/outputlib.php on line 31
+[15-Jul-2015 10:36:20 Asia/Ho_Chi_Minh] PHP Warning:  Unknown: Unable to allocate memory for pool. in Unknown on line 0
+[15-Jul-2015 10:36:20 Asia/Ho_Chi_Minh] PHP Warning:  Unknown: Unable to allocate memory for pool. in Unknown on line 0
+[15-Jul-2015 10:36:20 Asia/Ho_Chi_Minh] PHP Warning:  Unknown: Unable to allocate memory for pool. in Unknown on line 0
+[15-Jul-2015 11:19:13 Asia/Ho_Chi_Minh] PHP Warning:  Unknown: Unable to allocate memory for pool. in Unknown on line 0
+[15-Jul-2015 11:19:13 Asia/Ho_Chi_Minh] PHP Warning:  require(): Unable to allocate memory for pool. in /home/c11488/public_html/theme/yui_combo.php on line 32
+[15-Jul-2015 11:19:13 Asia/Ho_Chi_Minh] PHP Warning:  require_once(): Unable to allocate memory for pool. in /home/c11488/public_html/config.php on line 26
+[15-Jul-2015 11:19:13 Asia/Ho_Chi_Minh] PHP Warning:  require_once(): Unable to allocate memory for pool. in /home/c11488/public_html/lib/setup.php on line 390
+[15-Jul-2015 11:19:13 Asia/Ho_Chi_Minh] PHP Warning:  include(): Unable to allocate memory for pool. in /home/c11488/public_html/lib/classes/component.php on line 516
+[15-Jul-2015 11:19:13 Asia/Ho_Chi_Minh] PHP Warning:  include(): Unable to allocate memory for pool. in /home/c11488/public_html/lib/classes/component.php on line 516
+[15-Jul-2015 11:19:13 Asia/Ho_Chi_Minh] PHP Warning:  include(): Unable to allocate memory for pool. in /home/c11488/public_html/lib/classes/component.php on line 516
+[15-Jul-2015 11:19:13 Asia/Ho_Chi_Minh] PHP Warning:  include(): Unable to allocate memory for pool. in /home/c11488/public_html/lib/classes/component.php on line 516
+[15-Jul-2015 11:19:13 Asia/Ho_Chi_Minh] PHP Warning:  include(): Unable to allocate memory for pool. in /home/c11488/public_html/lib/classes/component.php on line 516
+[15-Jul-2015 11:19:13 Asia/Ho_Chi_Minh] PHP Warning:  include(): Unable to allocate memory for pool. in /home/c11488/public_html/lib/classes/component.php on line 516
+[15-Jul-2015 11:19:13 Asia/Ho_Chi_Minh] PHP Warning:  include(): Unable to allocate memory for pool. in /home/c11488/public_html/lib/classes/component.php on line 516
+[15-Jul-2015 11:19:13 Asia/Ho_Chi_Minh] PHP Warning:  include(): Unable to allocate memory for pool. in /home/c11488/public_html/lib/classes/component.php on line 516
+[15-Jul-2015 11:19:13 Asia/Ho_Chi_Minh] PHP Warning:  include(): Unable to allocate memory for pool. in /home/c11488/public_html/lib/classes/component.php on line 516
+[15-Jul-2015 11:19:13 Asia/Ho_Chi_Minh] PHP Warning:  include(): Unable to allocate memory for pool. in /home/c11488/public_html/lib/classes/component.php on line 516
+[15-Jul-2015 11:19:13 Asia/Ho_Chi_Minh] PHP Warning:  include(): Unable to allocate memory for pool. in /home/c11488/public_html/lib/classes/component.php on line 516
+[15-Jul-2015 11:19:13 Asia/Ho_Chi_Minh] PHP Warning:  require(): Unable to allocate memory for pool. in /home/c11488/public_html/lib/classes/component.php on line 1174
+[15-Jul-2015 11:19:13 Asia/Ho_Chi_Minh] PHP Warning:  require(): Unable to allocate memory for pool. in /home/c11488/public_html/lib/classes/component.php on line 1174
+[15-Jul-2015 11:19:13 Asia/Ho_Chi_Minh] PHP Warning:  require(): Unable to allocate memory for pool. in /home/c11488/public_html/lib/classes/component.php on line 1174
+[15-Jul-2015 11:19:13 Asia/Ho_Chi_Minh] PHP Warning:  require(): Unable to allocate memory for pool. in /home/c11488/public_html/lib/classes/component.php on line 1174
+[15-Jul-2015 11:19:13 Asia/Ho_Chi_Minh] PHP Warning:  require(): Unable to allocate memory for pool. in /home/c11488/public_html/lib/classes/component.php on line 1174
+[15-Jul-2015 11:19:13 Asia/Ho_Chi_Minh] PHP Warning:  require(): Unable to allocate memory for pool. in /home/c11488/public_html/lib/classes/component.php on line 1174
+[15-Jul-2015 11:19:13 Asia/Ho_Chi_Minh] PHP Warning:  require(): Unable to allocate memory for pool. in /home/c11488/public_html/lib/classes/component.php on line 1174
+[15-Jul-2015 11:19:13 Asia/Ho_Chi_Minh] PHP Warning:  require(): Unable to allocate memory for pool. in /home/c11488/public_html/lib/classes/component.php on line 323
+[15-Jul-2015 11:19:13 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Unable to allocate memory for pool. in /home/c11488/public_html/lib/classes/component.php on line 96
+[15-Jul-2015 11:19:13 Asia/Ho_Chi_Minh] PHP Warning:  require_once(): Unable to allocate memory for pool. in /home/c11488/public_html/lib/setup.php on line 585
+[15-Jul-2015 11:19:13 Asia/Ho_Chi_Minh] PHP Warning:  require_once(): Unable to allocate memory for pool. in /home/c11488/public_html/lib/setup.php on line 586
+[15-Jul-2015 11:19:13 Asia/Ho_Chi_Minh] PHP Warning:  require_once(): Unable to allocate memory for pool. in /home/c11488/public_html/lib/setup.php on line 587
+[15-Jul-2015 11:19:13 Asia/Ho_Chi_Minh] PHP Warning:  require_once(): Unable to allocate memory for pool. in /home/c11488/public_html/lib/setup.php on line 588
+[15-Jul-2015 11:19:13 Asia/Ho_Chi_Minh] PHP Warning:  require_once(): Unable to allocate memory for pool. in /home/c11488/public_html/lib/outputlib.php on line 31
+[15-Jul-2015 11:19:13 Asia/Ho_Chi_Minh] PHP Warning:  require_once(): Unable to allocate memory for pool. in /home/c11488/public_html/lib/outputlib.php on line 32
+[15-Jul-2015 11:19:13 Asia/Ho_Chi_Minh] PHP Warning:  require_once(): Unable to allocate memory for pool. in /home/c11488/public_html/lib/outputlib.php on line 33
+[15-Jul-2015 11:19:13 Asia/Ho_Chi_Minh] PHP Warning:  require_once(): Unable to allocate memory for pool. in /home/c11488/public_html/lib/outputlib.php on line 34
+[15-Jul-2015 11:19:13 Asia/Ho_Chi_Minh] PHP Warning:  require_once(): Unable to allocate memory for pool. in /home/c11488/public_html/lib/outputlib.php on line 35
+[15-Jul-2015 11:19:13 Asia/Ho_Chi_Minh] PHP Warning:  require_once(): Unable to allocate memory for pool. in /home/c11488/public_html/lib/setup.php on line 589
+[15-Jul-2015 11:19:13 Asia/Ho_Chi_Minh] PHP Warning:  require_once(): Unable to allocate memory for pool. in /home/c11488/public_html/lib/setup.php on line 590
+[15-Jul-2015 11:19:13 Asia/Ho_Chi_Minh] PHP Warning:  require_once(): Unable to allocate memory for pool. in /home/c11488/public_html/lib/dmllib.php on line 45
+[15-Jul-2015 11:19:13 Asia/Ho_Chi_Minh] PHP Warning:  require_once(): Unable to allocate memory for pool. in /home/c11488/public_html/lib/dml/moodle_database.php on line 27
+[15-Jul-2015 11:19:13 Asia/Ho_Chi_Minh] PHP Warning:  require_once(): Unable to allocate memory for pool. in /home/c11488/public_html/lib/dml/moodle_database.php on line 28
+[15-Jul-2015 11:19:13 Asia/Ho_Chi_Minh] PHP Warning:  require_once(): Unable to allocate memory for pool. in /home/c11488/public_html/lib/dml/moodle_database.php on line 29
+[15-Jul-2015 11:19:13 Asia/Ho_Chi_Minh] PHP Warning:  require_once(): Unable to allocate memory for pool. in /home/c11488/public_html/lib/setup.php on line 591
+[15-Jul-2015 11:19:13 Asia/Ho_Chi_Minh] PHP Warning:  require_once(): Unable to allocate memory for pool. in /home/c11488/public_html/lib/setup.php on line 592
+[15-Jul-2015 11:19:13 Asia/Ho_Chi_Minh] PHP Warning:  require_once(): Unable to allocate memory for pool. in /home/c11488/public_html/lib/setup.php on line 593
+[15-Jul-2015 11:19:13 Asia/Ho_Chi_Minh] PHP Warning:  require_once(): Unable to allocate memory for pool. in /home/c11488/public_html/lib/setup.php on line 594
+[15-Jul-2015 11:19:13 Asia/Ho_Chi_Minh] PHP Warning:  require_once(): Unable to allocate memory for pool. in /home/c11488/public_html/lib/setup.php on line 595
+[15-Jul-2015 11:19:13 Asia/Ho_Chi_Minh] PHP Warning:  require_once(): Unable to allocate memory for pool. in /home/c11488/public_html/lib/setup.php on line 596
+[15-Jul-2015 11:19:13 Asia/Ho_Chi_Minh] PHP Warning:  require_once(): Unable to allocate memory for pool. in /home/c11488/public_html/lib/setup.php on line 597
+[15-Jul-2015 11:19:13 Asia/Ho_Chi_Minh] PHP Warning:  require_once(): Unable to allocate memory for pool. in /home/c11488/public_html/lib/setup.php on line 598
+[15-Jul-2015 11:19:13 Asia/Ho_Chi_Minh] PHP Warning:  require_once(): Unable to allocate memory for pool. in /home/c11488/public_html/lib/setup.php on line 599
+[15-Jul-2015 11:19:13 Asia/Ho_Chi_Minh] PHP Warning:  require_once(): Unable to allocate memory for pool. in /home/c11488/public_html/lib/setup.php on line 600
+[15-Jul-2015 11:19:13 Asia/Ho_Chi_Minh] PHP Warning:  require_once(): Unable to allocate memory for pool. in /home/c11488/public_html/lib/setup.php on line 601
+[15-Jul-2015 11:19:13 Asia/Ho_Chi_Minh] PHP Warning:  require_once(): Unable to allocate memory for pool. in /home/c11488/public_html/lib/setup.php on line 602
+[15-Jul-2015 11:19:13 Asia/Ho_Chi_Minh] PHP Warning:  require_once(): Unable to allocate memory for pool. in /home/c11488/public_html/lib/messagelib.php on line 27
+[15-Jul-2015 11:19:13 Asia/Ho_Chi_Minh] PHP Warning:  require_once(): Unable to allocate memory for pool. in /home/c11488/public_html/lib/setup.php on line 603
+[15-Jul-2015 11:19:13 Asia/Ho_Chi_Minh] PHP Warning:  require_once(): Unable to allocate memory for pool. in /home/c11488/public_html/lib/setup.php on line 604
+[15-Jul-2015 11:19:13 Asia/Ho_Chi_Minh] PHP Warning:  require_once(): Unable to allocate memory for pool. in /home/c11488/public_html/cache/lib.php on line 34
+[15-Jul-2015 11:19:13 Asia/Ho_Chi_Minh] PHP Warning:  require_once(): Unable to allocate memory for pool. in /home/c11488/public_html/cache/lib.php on line 35
+[15-Jul-2015 11:19:13 Asia/Ho_Chi_Minh] PHP Warning:  require_once(): Unable to allocate memory for pool. in /home/c11488/public_html/cache/lib.php on line 36
+[15-Jul-2015 11:19:13 Asia/Ho_Chi_Minh] PHP Warning:  require_once(): Unable to allocate memory for pool. in /home/c11488/public_html/cache/lib.php on line 37
+[15-Jul-2015 11:19:13 Asia/Ho_Chi_Minh] PHP Warning:  require_once(): Unable to allocate memory for pool. in /home/c11488/public_html/cache/lib.php on line 38
+[15-Jul-2015 11:19:13 Asia/Ho_Chi_Minh] PHP Warning:  require_once(): Unable to allocate memory for pool. in /home/c11488/public_html/cache/lib.php on line 39
+[15-Jul-2015 11:19:13 Asia/Ho_Chi_Minh] PHP Warning:  require_once(): Unable to allocate memory for pool. in /home/c11488/public_html/cache/lib.php on line 40
+[15-Jul-2015 11:19:13 Asia/Ho_Chi_Minh] PHP Warning:  require_once(): Unable to allocate memory for pool. in /home/c11488/public_html/lib/dml/moodle_database.php on line 191
+[15-Jul-2015 11:19:13 Asia/Ho_Chi_Minh] PHP Warning:  require_once(): Unable to allocate memory for pool. in /home/c11488/public_html/lib/dml/mysqli_native_moodle_database.php on line 28
+[15-Jul-2015 11:19:13 Asia/Ho_Chi_Minh] PHP Warning:  require_once(): Unable to allocate memory for pool. in /home/c11488/public_html/lib/dml/mysqli_native_moodle_database.php on line 29
+[15-Jul-2015 11:19:13 Asia/Ho_Chi_Minh] PHP Warning:  require_once(): Unable to allocate memory for pool. in /home/c11488/public_html/lib/dml/mysqli_native_moodle_temptables.php on line 29
+[15-Jul-2015 11:19:13 Asia/Ho_Chi_Minh] PHP Warning:  include(): Unable to allocate memory for pool. in /home/c11488/public_html/cache/classes/config.php on line 333
+[15-Jul-2015 11:19:13 Asia/Ho_Chi_Minh] PHP Warning:  require_once(): Unable to allocate memory for pool. in /home/c11488/public_html/cache/classes/config.php on line 195
+[15-Jul-2015 11:19:13 Asia/Ho_Chi_Minh] PHP Warning:  require_once(): Unable to allocate memory for pool. in /home/c11488/public_html/cache/classes/config.php on line 195
+[15-Jul-2015 11:19:13 Asia/Ho_Chi_Minh] PHP Warning:  require_once(): Unable to allocate memory for pool. in /home/c11488/public_html/cache/classes/config.php on line 195
+[15-Jul-2015 11:19:14 Asia/Ho_Chi_Minh] PHP Warning:  Unknown: Unable to allocate memory for pool. in Unknown on line 0
+[15-Jul-2015 11:19:14 Asia/Ho_Chi_Minh] PHP Warning:  Unknown: Unable to allocate memory for pool. in Unknown on line 0
+[15-Jul-2015 14:22:48 Asia/Ho_Chi_Minh] 2015051101.01
+[15-Jul-2015 14:22:55 Asia/Ho_Chi_Minh] 2015051101.01
+[15-Jul-2015 14:28:28 Asia/Ho_Chi_Minh] 2015051101.01
+[15-Jul-2015 14:28:31 Asia/Ho_Chi_Minh] 2015051101.01
+[16-Jul-2015 12:49:13 Asia/Ho_Chi_Minh] 2015051101.01
+[16-Jul-2015 12:49:16 Asia/Ho_Chi_Minh] 2015051101.01
+[16-Jul-2015 12:55:25 Asia/Ho_Chi_Minh] 2015051101.01
+[17-Jul-2015 09:32:00 Asia/Ho_Chi_Minh] 2015051101.01
+[17-Jul-2015 09:32:09 Asia/Ho_Chi_Minh] 2015051101.01
+[17-Jul-2015 09:32:19 Asia/Ho_Chi_Minh] 2015051101.01
+[17-Jul-2015 09:32:43 Asia/Ho_Chi_Minh] 2015051101.01
+[17-Jul-2015 09:35:41 Asia/Ho_Chi_Minh] 2015051101.01
+[17-Jul-2015 09:35:46 Asia/Ho_Chi_Minh] 2015051101.01
+[17-Jul-2015 09:44:55 Asia/Ho_Chi_Minh] 2015051101.01
+[17-Jul-2015 09:45:01 Asia/Ho_Chi_Minh] 2015051101.01
+[17-Jul-2015 09:50:21 Asia/Ho_Chi_Minh] 2015051101.01
+[17-Jul-2015 09:50:24 Asia/Ho_Chi_Minh] 2015051101.01
+[17-Jul-2015 09:50:34 Asia/Ho_Chi_Minh] 2015051101.01
+[17-Jul-2015 09:50:47 Asia/Ho_Chi_Minh] 2015051101.01
+[17-Jul-2015 11:39:15 Asia/Ho_Chi_Minh] 2015051101.01
+[17-Jul-2015 11:39:18 Asia/Ho_Chi_Minh] 2015051101.01
+[17-Jul-2015 11:42:09 Asia/Ho_Chi_Minh] 2015051101.01
+[17-Jul-2015 14:28:49 Asia/Ho_Chi_Minh] 2015051101.01
+[17-Jul-2015 15:14:03 Asia/Ho_Chi_Minh] 2015051101.01
+[17-Jul-2015 15:14:07 Asia/Ho_Chi_Minh] 2015051101.01
+[17-Jul-2015 16:30:02 Asia/Ho_Chi_Minh] 2015051101.01
+[17-Jul-2015 16:30:06 Asia/Ho_Chi_Minh] 2015051101.01
